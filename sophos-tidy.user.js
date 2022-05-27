@@ -171,7 +171,7 @@ setInterval(function() {
         item.firstChild.innerHTML = item.firstChild.title.replaceAll(" , ", "<br>").replaceAll(" ,", "<br>");
         item.firstChild.title="";
       }
-}, 500);
+}, 500);aa
 
 // Keep session alive
 setInterval(function() {
